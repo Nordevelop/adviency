@@ -1,6 +1,6 @@
 # adviency
 Hagamos un calendario de #adviency 👀. Hacemos la misma aplicación, 24 veces desde 0
-Recordá que la idea es empezar la app de 0 cada día, no editar la del día anterior, si no te dan los tiempos o te parece mucho, editá la anterior, mejor poco que nada! 🔔
+Recordá que la idea es empezar la app de 0 cada día, no editar la del día anterior, en mi caso que no me dan los tiempos o te parece mucho, editá la anterior, mejor poco que nada! 🔔
 
 - Día 1: Para calentar motores vamos a mantener las cosas simples, mostremos una lista de regalos, 3 elementos, fijos, sin nada más.
 
